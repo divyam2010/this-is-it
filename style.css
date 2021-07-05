@@ -1,0 +1,14 @@
+input{
+    margin: 10px;
+}
+
+#sumbit_1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#sort_1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;
+}
